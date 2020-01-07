@@ -1,0 +1,19 @@
+img {
+    border-radius: 100%;
+}
+h1 {
+    color: lightseagreen;
+}
+h1:hover{
+    color: darkblue;
+}
+h2{
+    color: lightskyblue;
+}
+hr {
+    border-style: none;
+    border-width: 5px;
+    border-top-style: dotted;
+    border-color: cornflowerblue;
+    width: 10%;
+}
